@@ -1,0 +1,16 @@
+.mainTitle{
+    margin: 0 auto 30px;
+    /* border: 3px solid black; */
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 50px;
+    width: fit-content;
+    position: relative;
+    z-index: 1;
+    transition: var(--main-transition);
+    color:  #d7816a
+  }
+
+  .contact{
+    background-color: #ffb2b2;
+  }

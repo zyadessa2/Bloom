@@ -1,0 +1,9 @@
+.slider{
+    background-color: #ffffff;
+background-image: linear-gradient(315deg, #ffffff 0%, #fd9595 74%);
+
+}
+.btnShop{
+    margin: auto;
+    font-family: 'Pacifico', cursive;
+}

@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "homepage": "https://zyadessa.github.io/Bloom",
+    "homepage": "https://zyadessa2.github.io/Bloom",
     "@emailjs/browser": "^3.11.0",
     "@fortawesome/fontawesome-free": "^6.5.1",
     "@testing-library/jest-dom": "^5.17.0",
